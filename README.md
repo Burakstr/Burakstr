@@ -4,8 +4,6 @@
 <h1 align="center">Hi 👋, I'm Burak</h1>
 <h3 align="center">I'm a iOS Developer, from Turkey/Istanbul</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakstr&label=Profile%20views&color=0e75b6&style=flat" alt="burakstr" /> </p>
-
 - 🌱 I’m currently learning **SwifUI**
 
 - 💬 Ask me about **SwiftUI**
@@ -25,3 +23,5 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=burakstr&show_icons=true&locale=en" alt="burakstr" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=burakstr&" alt="burakstr" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=burakstr&label=Profile%20views&color=0e75b6&style=flat" alt="burakstr" /> </p>
